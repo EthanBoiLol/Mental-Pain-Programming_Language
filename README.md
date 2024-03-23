@@ -2,6 +2,13 @@
 
 An esoteric programming language created in python that is created with the intention of causing you mental pain
 
+## Requires
+
+- python3
+- os library
+- importlib library
+- bandaid (for mental pain)
+
 
 ## Getting started
 How to start writing in Pain
